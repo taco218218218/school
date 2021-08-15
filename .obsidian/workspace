@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "exam modulo 1.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exam modulo 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "ee110d879d03121f",
   "lastOpenFiles": [
+    "README.md",
     "Untitled 3.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -96,7 +97,6 @@
     "Untitled 13.md",
     "Untitled 12.md",
     "Untitled 11.md",
-    "Untitled 10.md",
-    "Untitled 9.md"
+    "Untitled 10.md"
   ]
 }
